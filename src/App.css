@@ -1,0 +1,61 @@
+:root{
+  --primary: #FFC636;
+  --secondary: #0A0B5B;
+}
+
+body{
+  font-family: system-ui;
+}
+
+
+.App {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+
+button {
+  margin: 10px;
+  padding: 5px 15px;
+  background-color: #b3aac2;
+  border-radius: 8px;
+  border-style: none;
+  cursor:pointer;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 1px #ccc;
+}
+
+td {
+  border: solid 1px #ccc;
+}
+
+.checkbox-align {
+  margin: auto 10px;
+}
+
+.addtodo-align {
+  width: 380px;
+}
+
+.todo-align {
+  margin-left: 5px;
+  width: 250px;
+  text-align: left;
+}
+
+.error{
+  color: rgb(187, 30, 30);
+  text-align: center;
+  margin-left: 2px;
+}
+
+
+
+
